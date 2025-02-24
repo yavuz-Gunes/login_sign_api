@@ -170,3 +170,4 @@ C:\project_flutter\tamirhanem_backend\TamirhanemBackend\obj\Debug\net9.0\refint\
 C:\project_flutter\tamirhanem_backend\TamirhanemBackend\obj\Debug\net9.0\TamirhanemBackend.pdb
 C:\project_flutter\tamirhanem_backend\TamirhanemBackend\obj\Debug\net9.0\TamirhanemBackend.genruntimeconfig.cache
 C:\project_flutter\tamirhanem_backend\TamirhanemBackend\obj\Debug\net9.0\ref\TamirhanemBackend.dll
+C:\project_flutter\tamirhanem_backend\TamirhanemBackend\obj\Debug\net9.0\TamirhanemBackend.sourcelink.json
